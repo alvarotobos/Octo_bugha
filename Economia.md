@@ -16,4 +16,8 @@
 
 ##El DNP indicó también que en 2020 se observó una reducción de los ingresos territoriales de más del 12% respecto al 2019, y que las fuentes de financiación que presentaron mayores reducciones fueron la cofinanciación y los ingresos no tributarios, con caídas mayores al 35% y que por el contrario, las transferencias fueron la única fuente de financiación que creció, en el orden de 8,7%. 
 
+#Analisis:
+
+##Segun la narrativa del articulo se puede dar a entende la importancia de un manejos fiscal dando a en tender que esto puede ser muy beneficioso y que en las zonas menos adineradas es donde menos se recive esta ayuda.
+
 #https://www.portafolio.co/files/article_multimedia/uploads/2016/02/05/56b4f0a34abd4.jpeg
